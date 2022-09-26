@@ -9,13 +9,7 @@ export default function Pagination() {
 				<div class="hidden sm:flex sm:flex-1 sm:items-center sm:justify-between">
 					<div>
 						<p class="text-sm text-gray-700">
-							Showing
-							<span class="font-medium">1</span>
-							to
-							<span class="font-medium">10</span>
-							of
-							<span class="font-medium">97</span>
-							results
+							Showing <b>1</b> to <b>10</b> of <b>97</b> results
 						</p>
 					</div>
 					<div>
