@@ -51,8 +51,8 @@ export default function UserSidebar() {
 				<div className="flex flex-col justify-between items-center h-full pb-6 px-6  w-full  space-y-32 ">
 					<div></div>
 					{/* premium buttons */}
-					<div class="rounded-md shadow w-full">
-						<button type="button" href="#" class="flex w-full items-center justify-center rounded-md border border-transparent bg-green-500 py-2 text-base font-medium text-white hover:bg-green-600 text-md">
+					<div className="rounded-md shadow w-full">
+						<button type="button" href="#" className="flex w-full items-center justify-center rounded-md border border-transparent bg-green-500 py-2 text-base font-medium text-white hover:bg-green-600 text-md">
 							<svg className="mr-2" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 								<path fill-rule="evenodd" clip-rule="evenodd" d="M12.1791 1.32917C12.3011 1.39708 12.3969 1.5039 12.4511 1.63259C12.5053 1.76128 12.5149 1.90441 12.4783 2.03917L10.8183 8.125H16.875C16.9968 8.12501 17.1159 8.16061 17.2177 8.22742C17.3196 8.29423 17.3997 8.38934 17.4482 8.50107C17.4967 8.61279 17.5115 8.73625 17.4908 8.85628C17.4701 8.97631 17.4148 9.08767 17.3316 9.17667L8.58163 18.5517C8.48632 18.654 8.35946 18.7214 8.22132 18.7431C8.08318 18.7648 7.94174 18.7396 7.81964 18.6715C7.69754 18.6033 7.60182 18.4962 7.54779 18.3672C7.49376 18.2382 7.48455 18.0948 7.52163 17.96L9.18163 11.875H3.12496C3.00316 11.875 2.88402 11.8394 2.78217 11.7726C2.68033 11.7058 2.60023 11.6107 2.55172 11.4989C2.5032 11.3872 2.48839 11.2638 2.5091 11.1437C2.52981 11.0237 2.58514 10.9123 2.66829 10.8233L11.4183 1.44834C11.5136 1.34638 11.6403 1.27925 11.7782 1.25765C11.9161 1.23605 12.0572 1.26123 12.1791 1.32917Z" fill="white" />
 							</svg>

@@ -9,8 +9,8 @@ export default function Maincontent() {
 				<div className="p-6">
 					<div className="grid grid-cols-2 2xl:grid-cols-2 xl:gap-4">
 						<div>
-							<div class="flex justify-between justify-items-center items-center">
-								<h1 class="text-2xl sm:text-3xl leading-none font-bold text-gray-900 pb-6">File uploads</h1>
+							<div className="flex justify-between justify-items-center items-center">
+								<h1 className="text-2xl sm:text-3xl leading-none font-bold text-gray-900 pb-6">File uploads</h1>
 								<p className="font-medium text-gray-500 pb-6 flex items-center">
 									Sort
 									<svg className="ml-2" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
