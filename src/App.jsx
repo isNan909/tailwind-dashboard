@@ -5,8 +5,8 @@ import  Adminapp  from './pages/admin-ui'
 function App() {
   return (
     <Routes>
-      <Route path='/' element={<Userapp />} />
-      <Route path='/admin' element={<Adminapp />} />
+      <Route excat path='/' element={<Userapp />} />
+      <Route excat path='/admin' element={<Adminapp />} />
     </Routes>
 
   )
